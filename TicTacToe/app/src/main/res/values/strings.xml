@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="hello_world">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="playText">Play</string>
+    <string name="normalText">Normal Mode</string>
+    <string name="normal">normal_click</string>
+    <string name="hardText">Hard Mode</string>
+    <string name="hard">hard_click</string>
+    <string name="aboutText">About</string>
+    <string name="about">about_click</string>
+    <string name="exitText">Exit</string>
+    <string name="exit">exit_click</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="backText">Back</string>
+
+    <string name="normal_activity_label">Tic Tac Toe - Normal Mode</string>
+    <string name="start">Click a button to Start</string>
+    <string name="makeMove">makeMove</string>
+    <string name="about_activity_label">Tic Tac Toe - About</string>
+    <string name="aboutInformation">Tic Tac Toe game app created for (DMT) ICAPRG409A - Assessment 3</string>
+    <string name="aboutDeveloper">Mikaela Edmondstone 2015</string>
+    <string name="reset">Reset Game</string>
+
+
+</resources>
